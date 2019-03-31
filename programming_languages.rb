@@ -1,4 +1,4 @@
-def reformat_languages(languages)
+
  def reformat_languages(languages)
   # your code here
   new_hash = {}
@@ -14,4 +14,4 @@ def reformat_languages(languages)
   end
   new_hash
 end
-end
+
